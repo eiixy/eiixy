@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm eiixy! 👋
 
-<!--
-**eiixy/eiixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in web development, open source, and learning new technologies. I enjoy solving problems and building projects that make a difference.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [go-keg](https://github.com/go-keg)
+- 🌱 I’m currently learning ai,fe
+- 👯 I’m looking to collaborate on graphql
+- 📫 How to reach me: eiixyw@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![eiixy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiixy&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiixy&layout=compact&theme=radical)
+
+## Connect with Me
+- [Personal Website](https://eiixy.com)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat.
